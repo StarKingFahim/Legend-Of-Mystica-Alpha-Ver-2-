@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.4" tiledversion="1.4.3" orientation="orthogonal" renderorder="right-down" width="70" height="50" tilewidth="32" tileheight="32" infinite="0" nextlayerid="6" nextobjectid="1">
+ <tileset firstgid="1" source="Village Map Texture.tsx"/>
+ <layer id="1" name="Terrain" width="70" height="50">
+  <data encoding="base64" compression="zlib">
+   eJzt1j1OxDAQBeCcgnrLrYL2KkgcgQZ6JJAWODqmWMlYM/7JvPFzNi5es1rF4y8zjtdlWdaQl5l/WQ/qclFyZJfUwcMlZz5qtFpRLql5+tuo0WYorh3hssee0epH9Evp2XuJVDPCJfZh7zH3vqT6tJoR36PS2T6KyUX4j/YM5He6xsbTK9cb0rc59yyP+4v0bjQX6Xtm6YeW5Nb4CDl3eIdSP+X2q/2vh8lfTiHvIZ8VsfpJc9ZyLrbuzXLWnRoi+VmstBmq6ROv/r7lKcmz0QrhVJobbxMpD0Yra0+VZq2XQ81aklWL1xYrdp9Y1rb0Vu6sP5NNPPo1tmo9q0pmI7ggrNJ+2uqkWfW4d3ncjZBzx7LqcYf07ilvq1537ZzTd8iP0ShnZXVjGb2GvC2YHtri1tupdp1ryNfiM2s1Yc2cZU3EXcDbBdlPViOkE9qFMXMeTp4uSCOrU6tPLxe2UWsfMVzYRpJTasV2Qfkgaoit2B5IH3btIxuxax7diV3rHowkq8dM2HtjGt1yzy4In9iIvY/RbO7ZBWHDrn9Em+lyTJdWG3at02WMTI+ZmZmZfeQXbfafYw==
+  </data>
+ </layer>
+ <layer id="2" name="Civilization" width="70" height="50">
+  <data encoding="base64" compression="zlib">
+   eJzt2TcOwkAUhOG1LwVnoiY1hI5UAR2pAjpSBRwAzgC3YSQLGRuXXjns/0kjebunkfc1awwQVfeNaShNpaW0/awnyoeBehgqI2WsTFLspcidLzTrUlkpa2WT4uw2O7ftoFmPykk5K5cUZ7fZeZHZ7BzpK/Les6nIe88m9l4y9h4AAAAAlFst6wFyqpP1AAAAAACA0qv4xlR/3l+7+u4pfd5kI6bqY6bMHe/l4Rnz9MLzVn3slL3//y+55KVO3l7Yz1U93JS7o33EfftBIOmuuHx/ksR3DQLcJQDItw+bPzak
+  </data>
+ </layer>
+ <group id="3" name="Forests">
+  <layer id="5" name="Forest2" width="70" height="50">
+   <data encoding="base64" compression="zlib">
+   eJztltkNwjAQRONquDrg6oCrA64OuDrgqpoJCBQlEysLkUDLPGl+/GVb+8ZOEsGYhyRZIEtkhazDt3f0G2xwD1tkh+yRg+7ljuaFo3vhyCNOOi+amSLpvGhmihzDIyfkjFyQq+7lhVziyCWOXBLifdS3HPUtR30rhBDiF9D/haP/C0f/F4484sgjjjziyCOOPOLII4484sgjjkePGjhDE2khbaQT4usMjx51cYYe0kcGyDDE1xkePRrhDGNkgkyRWYivMzx6ZKHMLY8eWShzy6NHFsrc+nePUphLXjyyvMF5mEtePLK8wXmYS148srzBT2Iz5sWjLFWdis2YF4+yVHUqNmNePMrCzvtJL3vG2sse+4Vh7WWP/VIHHvulDm5RZXtW
+  </data>
+  </layer>
+  <layer id="4" name="Forest 1" width="70" height="50">
+   <data encoding="base64" compression="zlib">
+   eJztmdcNwkAQBaEaUgekDkglEEowUAKhap6F7Q/0HOAHaW9GegXs3o32Qtbv9c7KRbkq8OamXtyVh/KkLxV79eKgHJUTfanI8MiCRx488uCRB488eOTBIw8eAQAAAACkB/dFD/dFD/dFD28vHt5ePLy9eHDIg0MeHPIwjzzMIw/zyBPdo4HqGiojZaxMOtYZ3aOp6popc2WhLIs62/oV3aOV6lorG2Wr7Io66/pVkur/dF2/Svif9k7xP+2dStGhT5xTqTuU4zxK3aEc51GUefTr+S3HeRRlHrWdR74lyjxya163f7rsrQgOOZr2T5e9FcEhR9N5tu2smxPBIYB/8wIiE1Mp
+  </data>
+  </layer>
+ </group>
+</map>

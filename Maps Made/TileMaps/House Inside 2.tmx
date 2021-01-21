@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.4" tiledversion="1.4.3" orientation="orthogonal" renderorder="right-down" width="30" height="15" tilewidth="32" tileheight="32" infinite="0" nextlayerid="5" nextobjectid="1">
+ <tileset firstgid="1" source="town_buildings.tsx"/>
+ <tileset firstgid="65" source="Abondoned House Interior.tsx"/>
+ <layer id="1" name="Floor" width="30" height="15">
+  <data encoding="base64" compression="zlib">
+   eJwTZGBgEKIvbhAEYkUgW4m+GGRngyGQbURfDLKzoRHIxoabgLgQB25CwrjUEMLo9k0kwt5JDAwO1LaXFP9OQhMvwqPHCYe9QH864LO3CIu92NyGbj4t/EtJODfhwbjcDwtjQvbiC3dK3UqufbjiA59epHTlQE3/kONfmDuJTVfkxM0kLPaSil2A2JXK8UsMTgTiUBrZiy/MADa4sq8=
+  </data>
+ </layer>
+ <group id="3" name="Furniture ">
+  <layer id="2" name="Furniture 2" width="30" height="15">
+   <data encoding="base64" compression="zlib">
+   eJxjYBh8wBOJHUGBOdU4xIvx6FmEhrGBJVAMAouhmBjQjEduExrGBrZAMQhshmJkUALEpUS6hZqgBYhbB8DeUUA/cAiIDyPR9AKXgPgyEk0vMOpf+oCB8i86AAAW/iGt
+  </data>
+  </layer>
+  <layer id="4" name="Furniture 1" width="30" height="15">
+   <data encoding="base64" compression="zlib">
+   eJxjYBha4DERarJJNDOGgPxHIP5Eopkw4AvF5ABGRgYGJkby9MZSYK8g0E4hEuztwmL3cAWTgXgKEE+ls73NQNwCxSBwCIgP09kNIHAJiC/T0T6YP+ntX5g/R/1LWzBY/AsAx9MfUA==
+  </data>
+  </layer>
+ </group>
+</map>
